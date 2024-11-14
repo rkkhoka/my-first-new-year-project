@@ -1,0 +1,36 @@
+.merriweather-regular {
+    font-family: "Merriweather", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+* {margin: 0;padding: 0}
+
+/* first part */
+
+.first-div{
+    background-image:url("../images/Banner\ Image.png");
+    color:  #e5f0effa;
+    height: 600px;
+    width: 1250px;
+    margin: 50px 140px 0px 140px;
+ 
+}
+nav ul li{
+  text-align: center;
+  
+  
+}
+.h1{
+  font-weight: 632px;
+  font-size: 72px;
+}
+.h4{
+  font-size: 32px;
+}
+.text-div{
+  padding-top: 200px;
+}
+/* second part */
+
