@@ -32,5 +32,45 @@ nav ul li{
 .text-div{
   padding-top: 200px;
 }
+header{
+  justify-items: center;
+}
+
 /* second part */
+
+main{justify-items: center;}
+nav ul li{
+  text-align: center;
+}
+.off{
+  margin-top: 80px;
+}
+
+.percent{
+  color: red;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 66px;
+  margin: 20px;
+}
+.percent-1{
+  color:red;
+  font-size: 18px;
+  
+}
+.percent-2{
+  color: black;
+  font-size: 30px;
+  margin: none;
+}
+.img-div{
+  height: 500.06px;
+  width: 803px;
+  margin-top: 50px;
+}
+.second-part{
+  margin: 50px 140px 0px 140px;
+  justify-items: center;
+}
+
+/* third-part */
 
